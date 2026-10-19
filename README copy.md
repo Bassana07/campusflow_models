@@ -1,1 +1,0 @@
-# campusflow_models
